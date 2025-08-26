@@ -23,4 +23,4 @@ This project is designed to help small businesses manage customers, products, an
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/BillingSystemWithDb.git
+   git clone https://github.com/prathamesh-020904/BillingSystemWithDb.git
